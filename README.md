@@ -1,1 +1,1 @@
-# learning_autotest_step_3
+STEP-3: Обучение ООП
